@@ -1,0 +1,10 @@
+{
+  "version": "0.0.01",
+  "description": "testing",
+  "scripts": {
+    "cy:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.11.0"
+  }
+}
